@@ -1,0 +1,10 @@
+.has-error .form-control{
+  border-color: red;
+}
+.form-errors-list ul{
+  padding: 0;
+  li{
+    list-style: none;
+    color: red;
+  }
+}

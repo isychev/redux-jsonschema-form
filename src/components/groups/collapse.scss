@@ -1,0 +1,10 @@
+.collapse-group {
+  &-link {
+    border-bottom: 1px dotted currentColor;
+    &:hover,
+    &:focus {
+      text-decoration: none;
+    }
+  }
+}
+
